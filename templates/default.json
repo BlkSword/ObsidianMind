@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generator": "AI Penetration Testing LLM-Agent",
+    "generatedAt": "{{generatedAt}}"
+  },
+  "taskInfo": "{{taskInfo}}",
+  "summary": "{{summary}}",
+  "vulnerabilities": "{{vulnerabilities}}",
+  "recommendations": "{{recommendations}}",
+  "methodology": "{{methodology}}"
+}
